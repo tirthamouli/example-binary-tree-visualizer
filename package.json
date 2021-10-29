@@ -36,6 +36,7 @@
     "webpack-dev-server": "^4.4.0"
   },
   "dependencies": {
+    "binary-tree-visualizer": "^1.0.0",
     "core-js": "^3.19.0",
     "regenerator-runtime": "^0.13.9"
   }
